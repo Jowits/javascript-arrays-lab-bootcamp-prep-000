@@ -27,5 +27,5 @@ function appendKitten(name){
 function prependKitten(name) {
   arr = [];
   kittens.unshift(name);
-  
+
 }
