@@ -16,3 +16,9 @@ function Arrays destructivelyRemoveFirstKitten(){
   kittens.shift();
   return kittens
 }
+function appendKitten(name){
+  arr = [Toshi];
+  kittens.concat(arr);
+  return arr
+
+}
