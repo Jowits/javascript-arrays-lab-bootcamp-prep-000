@@ -24,3 +24,8 @@ function appendKitten(name){
   return arr
 
 }
+function prependKitten(name) {
+  arr = [];
+  kittens.unshift(name);
+  
+}
